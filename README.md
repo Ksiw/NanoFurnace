@@ -23,6 +23,6 @@
 
 9)При снижении температуры или выключении тумблера, закрыть клапан и выполнить продув.
 
-![Иллюстрация к проекту](https://github.com/Ksiw/NanoFurnace/tree/master/NanoFurnace/Sheme.PNG)
+![Иллюстрация к проекту](https://https://github.com/Ksiw/NanoFurnace/tree/master/NanoFurnace/Sheme.PNG)
 
 
